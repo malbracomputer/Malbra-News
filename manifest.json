@@ -1,0 +1,38 @@
+{
+  "name": "WEBKECE",
+  "short_name": "WEBKECE",
+  "start_url": "http://webkece.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Pramuka, bela negara, sejarah ",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw0uH3DPrrX6UYQozeuZxc1XWswBVsE7iObMkDUzXpWDd1aDUiC6_0K7jkJ33a2RanCI0BcX0CJq9V5RyGfLPCTPSWBD7xaV-kQkbsHZ2joLMTTJ9Blt682JyHe4smsXU-e_aKqV7wHrgg3psFLIilmTzNYiTkL9rVvYeZ5n8LJaKSgth0xFrKImwG/s48/WEBKECE.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw0uH3DPrrX6UYQozeuZxc1XWswBVsE7iObMkDUzXpWDd1aDUiC6_0K7jkJ33a2RanCI0BcX0CJq9V5RyGfLPCTPSWBD7xaV-kQkbsHZ2joLMTTJ9Blt682JyHe4smsXU-e_aKqV7wHrgg3psFLIilmTzNYiTkL9rVvYeZ5n8LJaKSgth0xFrKImwG/s72/WEBKECE.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw0uH3DPrrX6UYQozeuZxc1XWswBVsE7iObMkDUzXpWDd1aDUiC6_0K7jkJ33a2RanCI0BcX0CJq9V5RyGfLPCTPSWBD7xaV-kQkbsHZ2joLMTTJ9Blt682JyHe4smsXU-e_aKqV7wHrgg3psFLIilmTzNYiTkL9rVvYeZ5n8LJaKSgth0xFrKImwG/s96/WEBKECE.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw0uH3DPrrX6UYQozeuZxc1XWswBVsE7iObMkDUzXpWDd1aDUiC6_0K7jkJ33a2RanCI0BcX0CJq9V5RyGfLPCTPSWBD7xaV-kQkbsHZ2joLMTTJ9Blt682JyHe4smsXU-e_aKqV7wHrgg3psFLIilmTzNYiTkL9rVvYeZ5n8LJaKSgth0xFrKImwG/s144/WEBKECE.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw0uH3DPrrX6UYQozeuZxc1XWswBVsE7iObMkDUzXpWDd1aDUiC6_0K7jkJ33a2RanCI0BcX0CJq9V5RyGfLPCTPSWBD7xaV-kQkbsHZ2joLMTTJ9Blt682JyHe4smsXU-e_aKqV7wHrgg3psFLIilmTzNYiTkL9rVvYeZ5n8LJaKSgth0xFrKImwG/s168/WEBKECE.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw0uH3DPrrX6UYQozeuZxc1XWswBVsE7iObMkDUzXpWDd1aDUiC6_0K7jkJ33a2RanCI0BcX0CJq9V5RyGfLPCTPSWBD7xaV-kQkbsHZ2joLMTTJ9Blt682JyHe4smsXU-e_aKqV7wHrgg3psFLIilmTzNYiTkL9rVvYeZ5n8LJaKSgth0xFrKImwG/s192/WEBKECE.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw0uH3DPrrX6UYQozeuZxc1XWswBVsE7iObMkDUzXpWDd1aDUiC6_0K7jkJ33a2RanCI0BcX0CJq9V5RyGfLPCTPSWBD7xaV-kQkbsHZ2joLMTTJ9Blt682JyHe4smsXU-e_aKqV7wHrgg3psFLIilmTzNYiTkL9rVvYeZ5n8LJaKSgth0xFrKImwG/s512/WEBKECE.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
