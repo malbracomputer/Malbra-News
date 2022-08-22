@@ -1,37 +1,37 @@
 {
-  "name": "WEBKECE",
-  "short_name": "WEBKECE",
-  "start_url": "http://webkece.blogspot.com/",
+  "name": "MalbraNews",
+  "short_name": "MalbraNews",
+  "start_url": "https://malbranews.blogspot.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
-  "description": "Pramuka, bela negara, sejarah ",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
   "icons": [{
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw0uH3DPrrX6UYQozeuZxc1XWswBVsE7iObMkDUzXpWDd1aDUiC6_0K7jkJ33a2RanCI0BcX0CJq9V5RyGfLPCTPSWBD7xaV-kQkbsHZ2joLMTTJ9Blt682JyHe4smsXU-e_aKqV7wHrgg3psFLIilmTzNYiTkL9rVvYeZ5n8LJaKSgth0xFrKImwG/s48/WEBKECE.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vMCxpIg3B8x6V-7TV6bMnZBiQulMYO98B6mrPg_smx9Rl6iBNSDrJRoiuh4lU7DbpWavJtXC1jP8EXAGVDGMHa4yMRxutLqBf9t_1n1Rwd7MtA56rP8vCjty4IvN8v-CcR3RtwqlOkMR4OTckNKZZ0O2uxZew4vaYB6LHWkUXuotsgD9EU9SSEP8/s48/MN2.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw0uH3DPrrX6UYQozeuZxc1XWswBVsE7iObMkDUzXpWDd1aDUiC6_0K7jkJ33a2RanCI0BcX0CJq9V5RyGfLPCTPSWBD7xaV-kQkbsHZ2joLMTTJ9Blt682JyHe4smsXU-e_aKqV7wHrgg3psFLIilmTzNYiTkL9rVvYeZ5n8LJaKSgth0xFrKImwG/s72/WEBKECE.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vMCxpIg3B8x6V-7TV6bMnZBiQulMYO98B6mrPg_smx9Rl6iBNSDrJRoiuh4lU7DbpWavJtXC1jP8EXAGVDGMHa4yMRxutLqBf9t_1n1Rwd7MtA56rP8vCjty4IvN8v-CcR3RtwqlOkMR4OTckNKZZ0O2uxZew4vaYB6LHWkUXuotsgD9EU9SSEP8/s72/MN2.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw0uH3DPrrX6UYQozeuZxc1XWswBVsE7iObMkDUzXpWDd1aDUiC6_0K7jkJ33a2RanCI0BcX0CJq9V5RyGfLPCTPSWBD7xaV-kQkbsHZ2joLMTTJ9Blt682JyHe4smsXU-e_aKqV7wHrgg3psFLIilmTzNYiTkL9rVvYeZ5n8LJaKSgth0xFrKImwG/s96/WEBKECE.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vMCxpIg3B8x6V-7TV6bMnZBiQulMYO98B6mrPg_smx9Rl6iBNSDrJRoiuh4lU7DbpWavJtXC1jP8EXAGVDGMHa4yMRxutLqBf9t_1n1Rwd7MtA56rP8vCjty4IvN8v-CcR3RtwqlOkMR4OTckNKZZ0O2uxZew4vaYB6LHWkUXuotsgD9EU9SSEP8/s96/MN2.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw0uH3DPrrX6UYQozeuZxc1XWswBVsE7iObMkDUzXpWDd1aDUiC6_0K7jkJ33a2RanCI0BcX0CJq9V5RyGfLPCTPSWBD7xaV-kQkbsHZ2joLMTTJ9Blt682JyHe4smsXU-e_aKqV7wHrgg3psFLIilmTzNYiTkL9rVvYeZ5n8LJaKSgth0xFrKImwG/s144/WEBKECE.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vMCxpIg3B8x6V-7TV6bMnZBiQulMYO98B6mrPg_smx9Rl6iBNSDrJRoiuh4lU7DbpWavJtXC1jP8EXAGVDGMHa4yMRxutLqBf9t_1n1Rwd7MtA56rP8vCjty4IvN8v-CcR3RtwqlOkMR4OTckNKZZ0O2uxZew4vaYB6LHWkUXuotsgD9EU9SSEP8/s144/MN2.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw0uH3DPrrX6UYQozeuZxc1XWswBVsE7iObMkDUzXpWDd1aDUiC6_0K7jkJ33a2RanCI0BcX0CJq9V5RyGfLPCTPSWBD7xaV-kQkbsHZ2joLMTTJ9Blt682JyHe4smsXU-e_aKqV7wHrgg3psFLIilmTzNYiTkL9rVvYeZ5n8LJaKSgth0xFrKImwG/s168/WEBKECE.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vMCxpIg3B8x6V-7TV6bMnZBiQulMYO98B6mrPg_smx9Rl6iBNSDrJRoiuh4lU7DbpWavJtXC1jP8EXAGVDGMHa4yMRxutLqBf9t_1n1Rwd7MtA56rP8vCjty4IvN8v-CcR3RtwqlOkMR4OTckNKZZ0O2uxZew4vaYB6LHWkUXuotsgD9EU9SSEP8/s168/MN2.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw0uH3DPrrX6UYQozeuZxc1XWswBVsE7iObMkDUzXpWDd1aDUiC6_0K7jkJ33a2RanCI0BcX0CJq9V5RyGfLPCTPSWBD7xaV-kQkbsHZ2joLMTTJ9Blt682JyHe4smsXU-e_aKqV7wHrgg3psFLIilmTzNYiTkL9rVvYeZ5n8LJaKSgth0xFrKImwG/s192/WEBKECE.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vMCxpIg3B8x6V-7TV6bMnZBiQulMYO98B6mrPg_smx9Rl6iBNSDrJRoiuh4lU7DbpWavJtXC1jP8EXAGVDGMHa4yMRxutLqBf9t_1n1Rwd7MtA56rP8vCjty4IvN8v-CcR3RtwqlOkMR4OTckNKZZ0O2uxZew4vaYB6LHWkUXuotsgD9EU9SSEP8/s192/MN2.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw0uH3DPrrX6UYQozeuZxc1XWswBVsE7iObMkDUzXpWDd1aDUiC6_0K7jkJ33a2RanCI0BcX0CJq9V5RyGfLPCTPSWBD7xaV-kQkbsHZ2joLMTTJ9Blt682JyHe4smsXU-e_aKqV7wHrgg3psFLIilmTzNYiTkL9rVvYeZ5n8LJaKSgth0xFrKImwG/s512/WEBKECE.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vMCxpIg3B8x6V-7TV6bMnZBiQulMYO98B6mrPg_smx9Rl6iBNSDrJRoiuh4lU7DbpWavJtXC1jP8EXAGVDGMHa4yMRxutLqBf9t_1n1Rwd7MtA56rP8vCjty4IvN8v-CcR3RtwqlOkMR4OTckNKZZ0O2uxZew4vaYB6LHWkUXuotsgD9EU9SSEP8/s512/MN2.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
